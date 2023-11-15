@@ -1,0 +1,14 @@
+<form action="/doeboeking" method="get">
+Kies een dag uit: <div id="lijst"></div>
+<br/>
+Aantal mensen: <input type="text" name="aantal">
+<br/>
+Email: <input type="text" name="email">
+<br/>
+<script>
+    for (const dag of [DAGEN])
+        document.getElementById("lijst").innerHTML += "<input type=\"radio\" name=\"dag\" value=\"" + dag + "\">" + dag + "</input>";
+</script>
+<br/>
+<input type="submit">Doe boeking>
+</form>

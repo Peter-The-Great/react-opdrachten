@@ -1,0 +1,14 @@
+C:\Users\mijn_\Downloads\reactopdracht\bin\Debug\net6.0\reactopdracht.exe
+C:\Users\mijn_\Downloads\reactopdracht\bin\Debug\net6.0\reactopdracht.deps.json
+C:\Users\mijn_\Downloads\reactopdracht\bin\Debug\net6.0\reactopdracht.runtimeconfig.json
+C:\Users\mijn_\Downloads\reactopdracht\bin\Debug\net6.0\reactopdracht.dll
+C:\Users\mijn_\Downloads\reactopdracht\bin\Debug\net6.0\reactopdracht.pdb
+C:\Users\mijn_\Downloads\reactopdracht\obj\Debug\net6.0\reactopdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijn_\Downloads\reactopdracht\obj\Debug\net6.0\reactopdracht.AssemblyInfoInputs.cache
+C:\Users\mijn_\Downloads\reactopdracht\obj\Debug\net6.0\reactopdracht.AssemblyInfo.cs
+C:\Users\mijn_\Downloads\reactopdracht\obj\Debug\net6.0\reactopdracht.csproj.CoreCompileInputs.cache
+C:\Users\mijn_\Downloads\reactopdracht\obj\Debug\net6.0\reactopdracht.dll
+C:\Users\mijn_\Downloads\reactopdracht\obj\Debug\net6.0\refint\reactopdracht.dll
+C:\Users\mijn_\Downloads\reactopdracht\obj\Debug\net6.0\reactopdracht.pdb
+C:\Users\mijn_\Downloads\reactopdracht\obj\Debug\net6.0\reactopdracht.genruntimeconfig.cache
+C:\Users\mijn_\Downloads\reactopdracht\obj\Debug\net6.0\ref\reactopdracht.dll
